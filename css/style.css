@@ -1,0 +1,43 @@
+.colorpalette{
+	width: 400px;
+	height: 400px;
+	background-color:#003049;
+	box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.color{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: 微軟正黑體;
+	line-height: 2;
+	/*回歸預設值*/
+	margin: 0;
+
+}
+
+.color1{
+	background-color: #f5ebe0;
+	color: #d62828 ;
+}
+
+.color2{
+	background-color: #f2cc8f;
+	color: #f77f00;
+}
+
+.color3{
+	background-color: #fcbf49;
+	color: #EB4A3E;
+}
+
+.color4{
+	background-color: #f77f00;
+	color: #F5F33E;
+}
+
+.color5{
+	background-color: #d62828;
+	color: #f5ebe0;
+	height: 200px;
+}
